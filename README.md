@@ -1,5 +1,5 @@
 # ML_internship_Classification
-Dry bean classification
+Dry bean classification is an 
 Internship Project Under which Dry Bean Model was created and following operations was performed
 1. Data Collection
 2. Data Preprocessing(removing the outliers , normalizing the data)
